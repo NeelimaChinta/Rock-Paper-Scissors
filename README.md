@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-The popular game of rock paper scissors
+A game of rock, paper and scissors between you and the computer which also keeps the score and decides the winner.
